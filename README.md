@@ -94,6 +94,7 @@ Various other members of the xbmc/kodi community for advice.
 
 ## Versions
 
++ **21.02.21:** Bump to Matrix 19.0.
 + **07.01.20:** Bump Leia to 18.5.
 + **23.06.19:** Bump Leia to 18.4.
 + **23.04.19:** Bump Leia to 18.2.
