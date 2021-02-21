@@ -3,8 +3,8 @@ FROM lsiobase/ubuntu:bionic as buildstage
 ############## build stage ##############
 
 # package versions
-ARG KODI_NAME="Leia"
-ARG KODI_VER="18.5"
+ARG KODI_NAME="Matrix"
+ARG KODI_VER="19.0"
 
 # defines which addons to build
 ARG KODI_ADDONS="vfs.libarchive vfs.rar"
